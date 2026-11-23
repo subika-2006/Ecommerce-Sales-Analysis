@@ -1,0 +1,11 @@
+"product_id","product_name","category","price"
+101,"Laptop","Electronics",50000.0
+102,"Mobile Phone","Electronics",25000.0
+103,"Headphones","Electronics",2000.0
+104,"Smart Watch","Electronics",5000.0
+105,"T-Shirt","Fashion",800.0
+106,"Jeans","Fashion",1500.0
+107,"Shoes","Fashion",2500.0
+108,"Office Chair","Furniture",7000.0
+109,"Study Table","Furniture",6000.0
+110,"Water Bottle","Accessories",500.0
