@@ -99,7 +99,9 @@ Ecommerce_Sales_Analysis_Advanced/
 ![E-Commerce Sales Dashboard](PowerBI/Ecommerce_Sales_Dashboard.png)
 
 ## Project Objective
+
 To transform raw e-commerce sales data into meaningful business insights through SQL querying, Excel analysis, and interactive Power BI visualizations.
+
 ---
 
 **Tools:** MySQL | Microsoft Excel | Power BI
